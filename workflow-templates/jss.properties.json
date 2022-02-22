@@ -3,7 +3,7 @@
     "description": "Code scanner identifying common Jenkins plugin development pitfalls. Learn more: jenkins.io/redirect/jenkins-security-scan",
     "iconName": "jenkins-security",
     "categories": [
-        "Java"
+        "Security"
     ],
     "filePatterns": [
         "^pom[.]xml$",
